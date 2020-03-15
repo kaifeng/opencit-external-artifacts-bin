@@ -5,3 +5,5 @@ This is a mirror of external artifacts required for building opencit which may n
 vijava: https://sourceforge.net/projects/vijava/files/vijava/VI%20Java%20API%205.5%20Beta/vijava55b20130927.zip
 
 tpm-tools-1.3.8: https://sourceforge.net/projects/trousers/files/tpm-tools/1.3.8/tpm-tools-1.3.8.tar.gz
+
+mmonit 5.5 is not available anymore, 5.9 is the lowest version: https://mmonit.com/monit/dist/monit-5.9.tar.gz
